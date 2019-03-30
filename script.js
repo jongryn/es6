@@ -16,6 +16,7 @@ console.log(name6);
 */
 
 // ES5
+/* 
 function driversLicense5(passedTest) {
 
     if (passedTest) {
@@ -60,3 +61,83 @@ for (var i = 0; i < 5; i++) {
 }
 
 console.log(i);
+*/
+
+//////////////////////////////////
+// Lecture: Blocks and IIFEs
+
+
+// ES6
+/*
+{
+    const a = 1;
+    let b =2;
+    var c = 3;
+}
+
+// console.log(a + b);
+console.log(c);
+
+
+// ES5
+(function() {
+    var c = 3;
+})();
+
+// console.log(c);
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+///////////////////////
+// Lecture: Arrow Functions
+
+const years = [1990, 1965, 1982, 1937];
+
+// ES5
+var ages5 = years.map(function(el) {
+    return 2016 - el;
+});
+console.log(ages5);
+
+// ES6
+// First way to write arrow function
+let ages6 = years.map(el => 2016 - el);
+console.log(ages6);
+
+// Second way to write arrow function
+ages6 = years.map((el, index) => `Age element ${index + 1}: ${2016 - el}.`);
+console.log(ages6);
+
+// Third way to write arrow function
+ages6 = years.map((el, index) => {
+    const now = new Date().getFullYear();
+        const age = now - el;
+        return `Age element ${index + 1}: ${age}.`
+});
+console.log(ages6);
