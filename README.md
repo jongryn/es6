@@ -2,7 +2,6 @@
 
 Link: https://jongryn.github.io/es6/
 
-- New ES6 Features:
-
-&nbsp;&nbsp;&nbsp; - Variable Declarations with let and const
+New ES6 Features:
+- Variable Declarations with let and const
 - 
