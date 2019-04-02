@@ -5,6 +5,7 @@ New ES6 Features:
 - Blocks and IIFFEs
 - Strings
 - Arrow Functions
+- Arrow Functions: Lexical 'this' Keyword
 - Destructuring
 - Arrays
 - The Spread Operator
