@@ -1,6 +1,6 @@
 # es6
 
-Link: 
+Link: https://jongryn.github.io/es6/
 
 ## Motivation
 Learn the new features of ES6
