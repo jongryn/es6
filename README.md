@@ -18,7 +18,7 @@ Suppose that you're working in a small town administration, and you're in charge
 1. Parks
 2. Streets
 
-It's a very small town, so righ tnow there are only 3 parks and 4 streets. All parks and streets have a name and a build year.
+It's a very small town, so right now there are only 3 parks and 4 streets. All parks and streets have a name and a build year.
 
 At an end-of-year meeting, your boss wants a final report with the following:
 1. Tree density of each park in the town (formal: number of trees/park area)
