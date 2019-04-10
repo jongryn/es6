@@ -1,6 +1,6 @@
 # es6
 
-New ES6 Features:
+## New ES6 Features
 - Variable Declarations with let and const
 - Blocks and IIFFEs
 - Strings
@@ -13,7 +13,7 @@ New ES6 Features:
 - Maps
 - Classes and subclasses
 
-Challenge:
+## Challenge
 Suppose that you're working in a small town administration, and you're in charge of two town elements:
 1. Parks
 2. Streets
