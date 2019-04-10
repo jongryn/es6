@@ -12,3 +12,6 @@ New ES6 Features:
 - Rest and Default Parameters
 - Maps
 - Classes and subclasses
+
+
+Challenge: 
