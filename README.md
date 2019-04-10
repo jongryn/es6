@@ -1,5 +1,8 @@
 # es6
 
+## Motivation
+Learn the new features of ES6
+
 ## New ES6 Features
 - Variable Declarations with let and const
 - Blocks and IIFFEs
