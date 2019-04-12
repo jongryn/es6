@@ -678,10 +678,7 @@ const allStreets = [new Street('Ocean Avenue', 1999, 1.1, 4),
 
 function calc(arr) {
 
-    const sum = arr.reduce((prev, cur, index) => prev + cur, 0);
-    //[3, 5, 6]
-
-    return [sum, sum / arr.length];
+    
 
 }
 
