@@ -36,4 +36,3 @@ All the report data should be printed to the console.
 
 HINT: Use some of the ES6 features: classes, subclasses, template strings, default parameters, maps, arrow functions, destructuring, etc.
 
-U
