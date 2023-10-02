@@ -32,7 +32,7 @@ At an end-of-year meeting, your boss wants a final report with the following:
 4. Total and average length of the town's streets
 5. Size classification of all streets: tiny/small/normal/big/huge. If the size is unknown, the default is normal
 
-All the report data should be printed to the console..
+All the report data should be printed to the console...
 
 HINT: Use some of the ES6 features: classes, subclasses, template strings, default parameters, maps, arrow functions, destructuring, etc.
 
